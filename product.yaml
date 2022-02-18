@@ -1,0 +1,7 @@
+server:
+  port: 8002
+#Database
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://edwar123:edwar123@cluster0.naakg.mongodb.net/BootcampProduct?retryWrites=true&w=majority
